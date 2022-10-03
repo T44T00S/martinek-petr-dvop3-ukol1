@@ -1,0 +1,24 @@
+{
+  "name": "dvop3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src -d public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/T44T00S/DVOP3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/T44T00S/DVOP3/issues"
+  },
+  "homepage": "https://github.com/T44T00S/DVOP3#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.18.10",
+    "@babel/core": "^7.19.1",
+    "@babel/preset-env": "^7.19.1"
+  }
+}
